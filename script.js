@@ -1,5 +1,5 @@
 const API_KEY = 'AIzaSyAAZTTMAB4hzEDwGIss9fV_BuSpfMi4JDI';
-const API_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash';
+const API_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash';
 let analyzedData = null;
 let chatContext = [];
 
